@@ -223,6 +223,7 @@ export default function App() {
                     {/* Ad Space: Header Leaderboard */}
                     <div className="px-8 mt-2">
                         <AdUnit
+                            slotId="8191010157"
                             width="728px"
                             height="90px"
                             className="mx-auto bg-gray-200/50 border-gray-300"
@@ -318,7 +319,7 @@ export default function App() {
                         </PropertySection>
 
                         <div className="mt-8 pt-6 border-t border-gray-100">
-                            <AdUnit height="250px" label="Sidebar Ad" />
+                            <AdUnit slotId="1644212868" height="250px" label="Sidebar Ad" />
                         </div>
 
                     </div>

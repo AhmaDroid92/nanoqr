@@ -42,7 +42,7 @@ export const InterstitialModal = ({ isOpen, onClose, onFinish }) => {
                 <p className="text-gray-500 text-sm mb-6">Your free download will start automatically.</p>
 
                 {/* Big Ad Slot */}
-                <AdUnit width="300px" height="250px" className="mx-auto mb-6 shadow-inner bg-gray-50" label="Interstitial Ad" />
+                <AdUnit slotId="5391886185" width="300px" height="250px" className="mx-auto mb-6 shadow-inner bg-gray-50" label="Interstitial Ad" />
 
                 <div className="h-1 w-full bg-gray-100 rounded-full overflow-hidden">
                     <div
